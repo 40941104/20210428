@@ -1,0 +1,23 @@
+header nav img{
+    width: 175px;
+}
+header il{
+    margin: 0 10px;
+}
+footer img{
+    width: 150px;
+    margin-bottom: 26px;
+}
+footer h4{
+    margin-bottom: 26px;
+}
+footer ul{
+    list-style: none;
+    padding: 0;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+footer ul li a{
+    color: #707070;
+}
